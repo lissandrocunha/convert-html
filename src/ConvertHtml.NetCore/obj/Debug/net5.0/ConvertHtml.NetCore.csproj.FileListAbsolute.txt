@@ -1,0 +1,15 @@
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.AssemblyInfoInputs.cache
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.AssemblyInfo.cs
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.csproj.CoreCompileInputs.cache
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\wkhtmltox\help-wkhtmltoimage.txt
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\wkhtmltox\help-wkhtmltopdf.txt
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\wkhtmltox\wkhtmltoimage.exe
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\wkhtmltox\wkhtmltopdf.exe
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\ConvertHtml.NetCore.deps.json
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\ConvertHtml.NetCore.dll
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\ref\ConvertHtml.NetCore.dll
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\bin\Debug\net5.0\ConvertHtml.NetCore.pdb
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.dll
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ref\ConvertHtml.NetCore.dll
+D:\GitHub\convert-html\src\ConvertHtml.NetCore\obj\Debug\net5.0\ConvertHtml.NetCore.pdb
